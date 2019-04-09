@@ -1,0 +1,10 @@
+applicant:지원자, 신청자
+apprehensive:걱정하는, 염려하는
+aptitude:재능, 소질
+associate:관련시키다
+bilingual:2개 국어를 구사하는
+broad:폭넓은
+candidate:지원자, 후보자
+certification:증명서, 증명
+commensurate:비례한, 액수가 상응하는
+confidence:확신, 자신, 신임
